@@ -1,0 +1,5 @@
+name: libKits
+version: 1.0.0
+antigen: Jorgebyte\libKits
+api: 5.0.0
+author: Jorgebyte
