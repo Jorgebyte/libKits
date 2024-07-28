@@ -1,0 +1,10 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/Jorgebyte/libKits
+build-by-default: true
+branches:
+- main
+projects:
+  libKits:
+    path: ""
+    model: virion
+    type: library
+...
